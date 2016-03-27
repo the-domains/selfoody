@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.796407
+  lightness: 0.6875
+  rhythmicContrast: 0.361012
+  saturation: 0.548766
+cta: {}
+layout_spectrum: 1
+name: Selfoody
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.127533
